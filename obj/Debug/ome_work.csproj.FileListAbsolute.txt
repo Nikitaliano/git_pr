@@ -1,0 +1,7 @@
+D:\ome_work\bin\Debug\ome_work.exe.config
+D:\ome_work\bin\Debug\ome_work.exe
+D:\ome_work\bin\Debug\ome_work.pdb
+D:\ome_work\obj\Debug\ome_work.csproj.AssemblyReference.cache
+D:\ome_work\obj\Debug\ome_work.csproj.CoreCompileInputs.cache
+D:\ome_work\obj\Debug\ome_work.exe
+D:\ome_work\obj\Debug\ome_work.pdb
